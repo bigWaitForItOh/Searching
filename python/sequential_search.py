@@ -27,7 +27,7 @@ def main ():
 	#-1 means the key doesn't exist in the data
 	keyPosition = linear_search (data, key);
 
-	#PYTHON, HOWEVER, PROVIDES A MUCH MORE SLEEK METHOD FOR SEARCH. STILL, TO DEMONSTRATE THE ALGORITHMS IS IMPORTANT.
+	#PYTHON, HOWEVER, PROVIDES AN IN-BUILT FUNCTION FOR SEARCH.
 	#keyPosition = data.index (key);
 
 if (__name__) == '__main__':
